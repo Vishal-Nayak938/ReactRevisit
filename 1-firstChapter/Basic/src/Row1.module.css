@@ -1,0 +1,22 @@
+.Row1{
+
+    display: flex;
+justify-content:space-evenly;
+font-size: 20px;
+}
+.button{
+    background-color: rgba(0, 0, 0, 0.705);
+    color:rgb(223, 206, 206);
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+}
+
+.input ,.date{
+    width: 180px;
+    border-radius: 10px;
+   font-size: 20px;
+}

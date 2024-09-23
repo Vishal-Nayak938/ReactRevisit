@@ -1,0 +1,20 @@
+.Container{
+    text-transform: capitalize;
+    /* height: 100px;
+    width: 100px; */
+    margin-left:30px;
+    color:rgb(25, 25, 26);
+   border:3px solid red;
+     /* background-color: rgba(137, 43, 226, 0.295); */
+     border-radius: 10px;
+margin: 10px;
+width: 50%;
+}
+
+
+/* @keyframes vknayak
+{
+    from {left: 20px}
+    to{right: 800px}
+}  */
+
